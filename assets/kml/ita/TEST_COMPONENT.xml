@@ -1,0 +1,3 @@
+<kion:ml xmlns:kion="http://www.kion.it/webesse3/multilingua" module="KML-CLIENT" xsl="TEST_COMPONENT" target="kion" lang="ita">
+    <kion:msg id="100">TITOLO DEL COMPONENTE TEST</kion:msg>
+</kion:ml>

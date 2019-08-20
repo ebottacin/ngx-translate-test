@@ -1,0 +1,3 @@
+<kion:ml xmlns:kion="http://www.kion.it/webesse3/multilingua" module="KML-CLIENT" target="kion" lang="ita">
+    <kion:msg id="WORLD">WORLD</kion:msg>
+</kion:ml>

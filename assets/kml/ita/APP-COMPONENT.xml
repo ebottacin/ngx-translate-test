@@ -1,0 +1,6 @@
+<kion:ml xmlns:kion="http://www.kion.it/webesse3/multilingua" module="KML-CLIENT" xsl="APP-COMPONENT" target="kion" lang="ita">
+    <kion:msg id="101">HOME.TITLE2</kion:msg>
+    <kion:msg id="100">IL MIO TITOLO</kion:msg>
+    <kion:msg id="120">IL MIO TITOLO 3</kion:msg>
+    <kion:msg id="10">HOME.SELECT</kion:msg>
+</kion:ml>
